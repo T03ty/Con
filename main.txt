@@ -1,1 +1,1 @@
-NumberBlocker=1,
+NumberBlocker=0,
